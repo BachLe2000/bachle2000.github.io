@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Discord Bach Le
 
-You can use the [editor on GitHub](https://github.com/BachLe2000/bachle2000.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this website, you can see all my information
 
 ### Markdown
 
