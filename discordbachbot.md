@@ -1,3 +1,6 @@
 ## Discord Bach Bot
 
-Test
+All information of my bot
+
+## Invite Link
+
