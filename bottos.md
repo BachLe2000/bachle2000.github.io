@@ -6,5 +6,5 @@ Bằng cách sử dụng bot của chúng tôi, bạn đồng ý rằng:
 
 "chúng tôi", "TCC" có nghĩa là The Coder Community.
 
-Bot áp dụng: Security Premium#6824, Rick Roll#1279, Tàu con thoi Challenger#4588.
+Bot áp dụng: Security Premium#6824, Rick Roll#1279, Tàu con thoi Challenger#4588, ☭ Communist nuke Bot ☭#2227.
 Áp dụng từ khi được tạo ra.
