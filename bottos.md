@@ -1,4 +1,4 @@
-# Điều khoản sử dụng
+## Điều khoản sử dụng
 
 Bằng cách sử dụng bot của chúng tôi, bạn đồng ý rằng:
 1. Bạn phải chịu trách nhiệm về việc bạn làm với bot.
@@ -18,6 +18,6 @@ Bot áp dụng: Security Premium#6824, Rick Roll#1279, Tàu con thoi Challenger#
 
 Cập nhật vào: 25/2/2022
 
-# Chính sách bảo mật
+## Chính sách bảo mật
 
 Để xem chính sách bảo mật, bấm vào [đây](https://the-coder-community.github.io/privacypolicy)
