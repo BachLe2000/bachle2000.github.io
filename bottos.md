@@ -1,4 +1,4 @@
-# Điều khoản sử dụng:
+# Điều khoản sử dụng
 
 Bằng cách sử dụng bot của chúng tôi, bạn đồng ý rằng:
 1. Bạn phải chịu trách nhiệm về việc bạn làm với bot.
@@ -13,5 +13,11 @@ Bằng cách sử dụng bot của chúng tôi, bạn đồng ý rằng:
 "chúng tôi", "TCC" có nghĩa là The Coder Community.
 
 Bot áp dụng: Security Premium#6824, Rick Roll#1279, Tàu con thoi Challenger#4588, ☭ Communist nuke Bot ☭#2227, Radioactive Bot#4912, Tiến Bịp Bot#6190, Project K001 Security#3841, Meow-Bot#9706.
+
 Áp dụng từ khi được tạo ra.
-Cập nhật vào: 24/2/2022
+
+Cập nhật vào: 25/2/2022
+
+# Chính sách bảo mật
+
+Để xem chính sách bảo mật, bấm vào [đây](https://the-coder-community.github.io/privacypolicy)
