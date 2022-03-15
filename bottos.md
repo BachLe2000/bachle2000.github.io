@@ -9,6 +9,7 @@ Bằng cách sử dụng bot của chúng tôi, bạn đồng ý rằng:
 6. Nếu bạn không đồng ý điều khoản này, chúng tôi vẫn sẽ thi hành điều khoản này và làm theo điều số 4 nếu có người bị nuke vào server chúng tôi.
 7. Việc add bot (ở mục bot áp dụng) vào đồng nghĩa với việc bạn chấp nhận điều khoản.
 8. Lưu ý rằng Meow-Bot#9706 và Task#6122 không phải là nuke bot.
+9. Việc sử dụng code của chúng tôi cũng áp dụng theo điều khoản này.
 
 "chúng tôi", "TCC" có nghĩa là The Coder Community.
 
