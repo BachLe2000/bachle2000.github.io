@@ -1,6 +1,6 @@
 ## Điều khoản sử dụng
 
-Bằng cách sử dụng bot của chúng tôi, bạn đồng ý rằng:
+Bằng cách sử dụng bot và code của chúng tôi, bạn đồng ý rằng:
 1. Bạn phải chịu trách nhiệm về việc bạn làm với bot.
 2. TCC (The Coder Community) là người tạo ra bot và sẽ không chịu trách nhiệm về mọi hình thức dùng bot, điều này không tính trong việc chính chúng tôi dùng bot.
 3. Nếu ai đổ lỗi cho chúng tôi, trong khi bạn làm thì bạn phải chịu trách nhiệm, không phải chúng tôi.
@@ -10,6 +10,7 @@ Bằng cách sử dụng bot của chúng tôi, bạn đồng ý rằng:
 7. Việc add bot (ở mục bot áp dụng) vào đồng nghĩa với việc bạn chấp nhận điều khoản.
 8. Lưu ý rằng Meow-Bot#9706 và Task#6122 không phải là nuke bot.
 9. Việc sử dụng code của chúng tôi cũng áp dụng theo điều khoản này.
+10. Nếu như bạn xóa link mời ở code thì bạn không cần chấp nhận điều khoản này.
 
 "chúng tôi", "TCC" có nghĩa là The Coder Community.
 
@@ -17,7 +18,7 @@ Bot áp dụng: Security Premium#6824, Rick Roll#1279, Tàu con thoi Challenger#
 
 Áp dụng từ khi được tạo ra.
 
-Cập nhật vào: 27/2/2022
+Cập nhật vào: 16/3/2022
 
 ## Chính sách bảo mật
 
