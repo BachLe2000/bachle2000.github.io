@@ -23,5 +23,5 @@ In Development
 
 ## Links
 
-The Coder Community Term of Use for Bot / Source Code: https://bachle2000.github.io/bottos
+The Coder Community Term of Use for Bot / Source Code: <https://bachle2000.github.io/bottos>
 
