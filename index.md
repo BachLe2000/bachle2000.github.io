@@ -1,3 +1,12 @@
+<widgetbot
+    server="909396700022575114"
+    channel="914406890774073354"
+    width="800"
+    height="600"
+></widgetbot>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+
+
 ## About me:
 
 Discord Bot Developer
