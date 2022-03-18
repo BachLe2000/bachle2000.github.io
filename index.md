@@ -1,6 +1,6 @@
 <widgetbot
     server="909396700022575114"
-    channel="914406890774073354"
+    channel="913341720190648351"
     width="800"
     height="600"
 ></widgetbot>
