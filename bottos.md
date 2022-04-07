@@ -11,6 +11,7 @@ Bằng cách sử dụng bot và code của chúng tôi, bạn đồng ý rằng
 8. Lưu ý rằng Meow-Bot#9706 và Task#6122 không phải là nuke bot.
 9. Việc sử dụng code của chúng tôi cũng áp dụng theo điều khoản này.
 10. Nếu như bạn xóa link mời ở code thì bạn không cần chấp nhận điều khoản này.
+11. Bạn có thể không cho bot của chúng tôi nuke server bằng cách [liên hệ](https://discord.gg/JMASqaXMXP) cho chúng tôi.
 
 "chúng tôi", "TCC" có nghĩa là The Coder Community.
 
