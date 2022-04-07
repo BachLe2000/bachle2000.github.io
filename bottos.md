@@ -13,13 +13,15 @@ Bằng cách sử dụng bot và code của chúng tôi, bạn đồng ý rằng
 10. Nếu như bạn xóa link mời ở code thì bạn không cần chấp nhận điều khoản này.
 11. Bạn có thể không cho bot của chúng tôi nuke server bằng cách [liên hệ](https://discord.gg/JMASqaXMXP) cho chúng tôi.
 
+Những bot hỗ trợ luật số 11: Security Premium#6824
+
 "chúng tôi", "TCC" có nghĩa là The Coder Community.
 
 Bot áp dụng: Security Premium#6824, Rick Roll#1279, Tàu con thoi Challenger#4588, ☭ Communist nuke Bot ☭#2227, Radioactive Bot#4912, Tiến Bịp Bot#6190, Project K001 Security#3841, Meow-Bot#9706, Task#6122.
 
 Áp dụng từ khi được tạo ra.
 
-Cập nhật vào: 16/3/2022
+Cập nhật vào: 7/4/2022
 
 ## Chính sách bảo mật
 
