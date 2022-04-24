@@ -17,11 +17,11 @@ Những bot hỗ trợ luật số 11: Security Premium#6824
 
 "chúng tôi", "TCC" có nghĩa là The Coder Community.
 
-Bot áp dụng: Security Premium#6824, Rick Roll#1279, Tàu con thoi Challenger#4588, ☭ Communist nuke Bot ☭#2227, Radioactive Bot#4912, Tiến Bịp Bot#6190, Project K001 Security#3841, Meow-Bot#9706, Task#6122.
+Bot áp dụng: Security Premium#6824, Rick Roll#1279, Tàu con thoi Challenger#4588, ☭ Communist nuke Bot ☭#2227, Radioactive Bot#4912, Tiến Bịp Bot#6190, Project K001 Security#3841, Meow-Bot#9706, Task#6122, Atlantis Space shuttle#0614.
 
 Áp dụng từ khi được tạo ra.
 
-Cập nhật vào: 7/4/2022
+Cập nhật vào: 24/4/2022
 
 ## Chính sách bảo mật
 
