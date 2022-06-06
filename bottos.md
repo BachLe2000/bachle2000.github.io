@@ -8,7 +8,7 @@ Bằng cách sử dụng bot và code của chúng tôi, bạn đồng ý rằng
 5. Nếu bạn sử dụng bot chúng tôi mà không thông báo, bạn vẫn phải chấp nhận điều khoản này, ngoại trừ Meow-Bot#9706 vì điều số 8.
 6. Nếu bạn không đồng ý điều khoản này, chúng tôi vẫn sẽ thi hành điều khoản này và làm theo điều số 4 nếu có người bị nuke vào server chúng tôi.
 7. Việc add bot (ở mục bot áp dụng) vào đồng nghĩa với việc bạn chấp nhận điều khoản.
-8. Lưu ý rằng Meow-Bot#9706 và Task#6122 không phải là nuke bot.
+8. Lưu ý rằng Meow-Bot#9706 không phải là nuke bot.
 9. Việc sử dụng code của chúng tôi cũng áp dụng theo điều khoản này.
 10. Nếu như bạn xóa link mời ở code thì bạn không cần chấp nhận điều khoản này.
 11. Bạn có thể không cho bot của chúng tôi nuke server bằng cách [liên hệ](https://discord.gg/JMASqaXMXP) cho chúng tôi.
@@ -17,7 +17,7 @@ Những bot hỗ trợ luật số 11: Security Premium#6824
 
 "chúng tôi", "TCC" có nghĩa là The Coder Community.
 
-Bot áp dụng: Security Premium#6824, Rick Roll#1279, Tàu con thoi Challenger#4588, ☭ Communist nuke Bot ☭#2227, Radioactive Bot#4912, Tiến Bịp Bot#6190, Project K001 Security#3841, Meow-Bot#9706, Task#6122, Atlantis Space shuttle#0614.
+Bot áp dụng: Security Premium#6824, Rick Roll#1279, Tàu con thoi Challenger#4588, ☭ Communist nuke Bot ☭#2227, Radioactive Bot#4912, Tiến Bịp Bot#6190, Project K001 Security#3841, Meow-Bot#9706, Atlantis Space shuttle#0614.
 
 Áp dụng từ khi được tạo ra.
 
