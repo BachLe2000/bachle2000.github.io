@@ -1,10 +1,9 @@
-<widgetbot
-    server="909396700022575114"
-    channel="913341720190648351"
-    width="800"
-    height="600"
-></widgetbot>
-<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+    new Crate({
+        server: '909396700022575114', // The Coder Community
+        channel: '1003634969693933618' // #✅〡verify
+    })
+</script>
 
 
 ## About me:
