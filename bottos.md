@@ -1,3 +1,6 @@
+> We have been shut down our nuke bot service! Thanks for using our bot! 18/12/2022 - 18/09/2022
+> Also this Terms of Service no longer support and apply to our user
+
 ## Điều khoản sử dụng
 
 Bằng cách sử dụng bot và code của chúng tôi, bạn đồng ý rằng:
@@ -21,7 +24,7 @@ Bot áp dụng: Security Premium#6824, Rick Roll#1279, Tàu con thoi Challenger#
 
 Áp dụng từ khi được tạo ra.
 
-Cập nhật vào: 24/4/2022
+Cập nhật vào: 18/09/2022
 
 ## Chính sách bảo mật
 
