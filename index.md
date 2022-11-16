@@ -14,8 +14,6 @@ I'm from Viet Nam.
 
 I'm currently developing Meow-Bot.
 
-I'm also owner in [The Coder Communitity](https://discord.gg/JMASqaXMXP) Discord server.
-
 What I'm doing in Discord?
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/624091967625625610)](https://discord.com/users/624091967625625610)
