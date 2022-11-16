@@ -1,6 +1,6 @@
 <img id="image" src="https://cdn.discordapp.com/attachments/962986843438202880/965061516925743194/unknown.png"/>
 
-> **Warining:** This only apply to my friend, not me (Bach Wumpus#0713)
+> This page only apply all the bad thing that affect me.
 
 ## STOP DA PENGUIN
 
