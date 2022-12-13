@@ -1,7 +1,7 @@
 <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
     new Crate({
-        server: '909396700022575114', // The Coder Community
-        channel: '1003634969693933618' // #✅〡verify
+        server: '1033982892134641685', // Anne
+        channel: '1044956595517399131' // #rules
     })
 </script>
 
